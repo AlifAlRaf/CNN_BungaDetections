@@ -2,10 +2,12 @@
 
 **TOOLS:**
 ANVIL 
-GOOGLE COLAB/VSCODE/JUPYTER
+Google Colab/Visual Studio/Jupyter
 
 **LANG:**
-.IPYNB
+.ipynb or .py
+
+CODINGAN ANVIL ADA DI file.ipynb
 
 **LINK ANVIL APP: 
 https://awkward-studious-owner.anvil.app/**
