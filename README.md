@@ -7,8 +7,7 @@ GOOGLE COLAB/VSCODE/JUPYTER
 **LANG:**
 .IPYNB
 
-**
-LINK ANVIL APP: 
+**LINK ANVIL APP: 
 https://awkward-studious-owner.anvil.app/**
 
 KADANG LINKNYA MATI 
