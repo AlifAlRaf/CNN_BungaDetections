@@ -1,10 +1,10 @@
 # CNN_BungaDetections
 
 **TOOLS:**
-ANVIL
-GOOGLE & COLAB
+ANVIL 
+GOOGLE COLAB/VSCODE/JUPYTER
 
 **LANG:**
-IPYNB
+.IPYNB
 
 **LINK ANVIL APP: https://awkward-studious-owner.anvil.app/**
